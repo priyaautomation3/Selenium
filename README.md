@@ -11,3 +11,6 @@ Resources --> Folder for to add any 3rd party resources.
 HelperFunctions --> Folder for creating any helper functions and maintained here.  Used for single helper function for all pages if required. 
 pages --> Folder where all pages are maintained.
 SeleniumTestCase.py --> This test case has steps for launching, login and verifying the same using selenium. 
+
+
+Need to install selenium, unittest, pywin32 modules. 
